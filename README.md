@@ -63,6 +63,10 @@ Les fiches sont organisées par phase du cycle de vie (« modules »), avec des 
 - [14 — User Feedback](14-user-feedback.md)
 - [21 — UX produit & livraison](21-ux-livraison.md)
 
+## Cours & séances
+
+- [**SDK natif ou framework ?** (séance 18.11.2025)](cours-sdk-vs-framework-18.11.2025/01-cas-pratiques-apprenants.md) — cas pratiques de décision d'outillage (SDK natif / LangChain / LangGraph / CrewAI / n8n). Prolonge la [fiche 01](01-langchain-langgraph-crewai.md). *Corrigé instructeur (ne pas distribuer) : [`02-corrige-instructeur.md`](cours-sdk-vs-framework-18.11.2025/02-corrige-instructeur.md).*
+
 ---
 
 *Dépôt interne — YdaysAILab.*
